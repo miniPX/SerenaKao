@@ -1,2 +1,5 @@
 ###ignore node_module
 node_modules
+
+##ignore .next/server for now
+.next/server
