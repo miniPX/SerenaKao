@@ -1,0 +1,20 @@
+{
+  "name": "serenakao",
+  "version": "1.0.0",
+  "description": "Serena and Noel's first site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miniPX/SerenaKao.git"
+  },
+  "author": "Noel Eom & Serena Kao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miniPX/SerenaKao/issues"
+  },
+  "homepage": "https://github.com/miniPX/SerenaKao#readme"
+}
