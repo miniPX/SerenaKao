@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/miniPX/SerenaKao/issues"
   },
-  "homepage": "https://github.com/miniPX/SerenaKao#readme"
+  "homepage": "https://github.com/miniPX/SerenaKao#readme",
+  "dependencies": {}
 }
